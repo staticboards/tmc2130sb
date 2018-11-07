@@ -734,8 +734,8 @@ Text Notes 1600 7300 0    70   ~ 0
 Steps\n  1\n  2\n  2\n  4\n 16\n  4\n 16\n  4\n 16
 Text Notes 2800 7300 0    70   ~ 0
 Chopper Mode\nspreadCycle\nspreadCycle\nspreadCycle\nspreadCycle\nspreadCycle\nspreadCycle\nspreadCycle\nstealthChop\nstealthChop
-Text Notes 800  7550 0    70   ~ 14
-\nORIGINAL : https://github.com/watterott/SilentStepStick
+Text Notes 4875 7250 0    80   ~ 0
+Released under the Creative Commons Attribution Share-Alike\nLicense. https://creativecommons.org/licenses/by-sa/4.0/\nDesigned by staticboards\nDerived work from Stephan Watterott\nhttps://github.com/watterott/SilentStepStick/tree/master/hardware\n\nStaticboards ® is a registered trademark
 Wire Wire Line
 	8900 4700 9000 4700
 Wire Wire Line
@@ -748,7 +748,7 @@ Wire Wire Line
 	6450 2450 6450 2350
 Connection ~ 6450 2350
 $Bitmap
-Pos 10125 6725
+Pos 10200 6475
 Scale 1,000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 01 E2 00 00 01 E2 08 02 00 00 00 BB 8B 58 
@@ -2185,8 +2185,8 @@ B5 A6 97 7D 59 FC E5 ED 15 13 05 D7 09 AB 31 06 8C E5 43 46 E2 EC 88 67 65 0B C4
 CB 3A 33 F2 00 00 00 00 49 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
-Text Notes 9350 7700 0    100  ~ 20
+Text Notes 9400 7225 0    100  ~ 20
 www.staticboards.com
 Text Notes 3700 1000 0    300  ~ 60
-TMC2130 SB Drivers
+TMC2130 SB Driver
 $EndSCHEMATC
